@@ -1,3 +1,10 @@
 what is the meaning of mixed bits?
+Okay. So a quantum bit is called Qbit and a qbit can either be pure or in mixed state. Like that day I told, a bit can be alpha|1> + beta|0> i.e superposition of two basis. This is a mixed qbit. 
+Whereas, after mesurement, we know the qbit will either be |0> or |1>. This is a pure bit. 
+
 
 what is entanglement distillation?
+So, Entanglement Distillation is nothing but the distillation of entangled bits. I guess you don't know about entangled bits. So, entangled bits are a pair of bits that are basically dependent on each other. 
+You don't have to go through the math behind the entangled bits but it works like this: Lets say you have one bit, p1 and I have a bit, h1 and both are entangled. So, no matter how far apart we are, once you measure your bit p1, to know it's value, my bit, h1 will also collapse to the same or opposite value. (this same or opposite value depends on how we generate these bits.). 
+
+So basically, entangled bits are a pair of bits which are correlated irrespective of the distance between them. 
